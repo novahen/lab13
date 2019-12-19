@@ -7,3 +7,6 @@ C:\Users\user02\Documents\374\lab12\Lab12_Tsvetkov_Zhukov\Lab12_Tsvetkov_Zhukov\
 C:\Users\user02\Documents\374\lab12\Lab12_Tsvetkov_Zhukov\Lab12_Tsvetkov_Zhukov\obj\Debug\Lab12_Tsvetkov_Zhukov.csproj.GenerateResource.Cache
 C:\Users\user02\Documents\374\lab12\Lab12_Tsvetkov_Zhukov\Lab12_Tsvetkov_Zhukov\obj\Debug\Lab12_Tsvetkov_Zhukov.exe
 C:\Users\user02\Documents\374\lab12\Lab12_Tsvetkov_Zhukov\Lab12_Tsvetkov_Zhukov\obj\Debug\Lab12_Tsvetkov_Zhukov.pdb
+C:\Users\user02\Documents\374\lab13\Lab13_Tsvetkov_Zhukov\Lab12_Tsvetkov_Zhukov\bin\Debug\Lab12_Tsvetkov_Zhukov.exe.config
+C:\Users\user02\Documents\374\lab13\Lab13_Tsvetkov_Zhukov\Lab12_Tsvetkov_Zhukov\obj\Debug\Lab12_Tsvetkov_Zhukov.exe
+C:\Users\user02\Documents\374\lab13\Lab13_Tsvetkov_Zhukov\Lab12_Tsvetkov_Zhukov\obj\Debug\Lab12_Tsvetkov_Zhukov.pdb

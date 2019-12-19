@@ -26,11 +26,16 @@ namespace Lab12_Tsvetkov_Zhukov
                 this.comboBox1.Items.Add(this._374_lab12_Tsvetkov_ZhukovDataSet.UserAge.Columns[i].ToString());
             }
             this.Vozr.Checked = true;
+            this.label1.Text = "";
+            this.comboBox1.Text = "";
+            this.Vozr.Visible = false;
+            this.Ubiv.Visible = false;
         }
 
         private void button_Click(object sender, EventArgs e)
-        {
-            this.userAgeBindingSource.Sort = this.comboBox1.Text + sort;
+        {   
+            this.userAgeBindingSource.Filter = this.comboBox1.Text + "='"+this.textBox1.Text+"'";
+            label1.Text = this.comboBox1.Text + " = " + this.textBox1.Text + "'";
         }
 
         private void Vozr_Click(object sender, EventArgs e)
